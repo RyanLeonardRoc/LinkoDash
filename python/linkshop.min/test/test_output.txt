@@ -1,0 +1,971 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415" height="420">
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="10" r="3" id="node0" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="60" r="3" id="0link5" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="170" y2="60" id="0flink5" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="60" x2="220" y2="110" id="0blink5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="70" r="3" id="0link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="160" y2="70" id="0flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="70" x2="220" y2="130" id="0blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="80" r="3" id="0link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="150" y2="80" id="0flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="80" x2="220" y2="150" id="0blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="70" cy="160" r="3" id="0link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="70" y2="160" id="0flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="70" y1="160" x2="220" y2="310" id="0blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="60" cy="170" r="3" id="0link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="60" y2="170" id="0flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="60" y1="170" x2="220" y2="330" id="0blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="50" cy="180" r="3" id="0link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="50" y2="180" id="0flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="50" y1="180" x2="220" y2="350" id="0blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="30" cy="200" r="3" id="0link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="30" y2="200" id="0flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="30" y1="200" x2="220" y2="390" id="0blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="20" cy="210" r="3" id="0link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="10" x2="20" y2="210" id="0flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="20" y1="210" x2="220" y2="410" id="0blink20" />
+<text x="230" y="15" fill="black">0: Execute, Shell</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="30" r="3" id="node1" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="40" r="3" id="1link2" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="210" y2="40" id="1flink2" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="40" x2="220" y2="50" id="1blink2" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="50" r="3" id="1link3" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="200" y2="50" id="1flink3" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="50" x2="220" y2="70" id="1blink3" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="60" r="3" id="1link4" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="190" y2="60" id="1flink4" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="60" x2="220" y2="90" id="1blink4" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="70" r="3" id="1link5" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="180" y2="70" id="1flink5" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="70" x2="220" y2="110" id="1blink5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="80" r="3" id="1link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="170" y2="80" id="1flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="80" x2="220" y2="130" id="1blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="90" r="3" id="1link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="160" y2="90" id="1flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="90" x2="220" y2="150" id="1blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="100" r="3" id="1link8" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="150" y2="100" id="1flink8" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="100" x2="220" y2="170" id="1blink8" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="110" r="3" id="1link9" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="140" y2="110" id="1flink9" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="110" x2="220" y2="190" id="1blink9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="120" r="3" id="1link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="130" y2="120" id="1flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="120" x2="220" y2="210" id="1blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="130" r="3" id="1link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="120" y2="130" id="1flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="130" x2="220" y2="230" id="1blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="140" r="3" id="1link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="110" y2="140" id="1flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="140" x2="220" y2="250" id="1blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="150" r="3" id="1link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="100" y2="150" id="1flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="150" x2="220" y2="270" id="1blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="160" r="3" id="1link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="90" y2="160" id="1flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="160" x2="220" y2="290" id="1blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="170" r="3" id="1link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="80" y2="170" id="1flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="170" x2="220" y2="310" id="1blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="70" cy="180" r="3" id="1link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="70" y2="180" id="1flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="70" y1="180" x2="220" y2="330" id="1blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="60" cy="190" r="3" id="1link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="60" y2="190" id="1flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="60" y1="190" x2="220" y2="350" id="1blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="50" cy="200" r="3" id="1link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="30" x2="50" y2="200" id="1flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="50" y1="200" x2="220" y2="370" id="1blink18" />
+<text x="230" y="35" fill="black">1: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="50" r="3" id="node2" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="60" r="3" id="2link3" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="210" y2="60" id="2flink3" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="60" x2="220" y2="70" id="2blink3" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="70" r="3" id="2link4" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="200" y2="70" id="2flink4" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="70" x2="220" y2="90" id="2blink4" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="80" r="3" id="2link5" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="190" y2="80" id="2flink5" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="80" x2="220" y2="110" id="2blink5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="90" r="3" id="2link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="180" y2="90" id="2flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="90" x2="220" y2="130" id="2blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="100" r="3" id="2link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="170" y2="100" id="2flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="100" x2="220" y2="150" id="2blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="110" r="3" id="2link8" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="160" y2="110" id="2flink8" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="110" x2="220" y2="170" id="2blink8" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="120" r="3" id="2link9" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="150" y2="120" id="2flink9" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="120" x2="220" y2="190" id="2blink9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="130" r="3" id="2link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="140" y2="130" id="2flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="130" x2="220" y2="210" id="2blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="140" r="3" id="2link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="130" y2="140" id="2flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="140" x2="220" y2="230" id="2blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="150" r="3" id="2link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="120" y2="150" id="2flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="150" x2="220" y2="250" id="2blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="160" r="3" id="2link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="110" y2="160" id="2flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="160" x2="220" y2="270" id="2blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="170" r="3" id="2link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="100" y2="170" id="2flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="170" x2="220" y2="290" id="2blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="180" r="3" id="2link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="90" y2="180" id="2flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="180" x2="220" y2="310" id="2blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="190" r="3" id="2link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="80" y2="190" id="2flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="190" x2="220" y2="330" id="2blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="70" cy="200" r="3" id="2link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="70" y2="200" id="2flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="70" y1="200" x2="220" y2="350" id="2blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="60" cy="210" r="3" id="2link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="50" x2="60" y2="210" id="2flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="60" y1="210" x2="220" y2="370" id="2blink18" />
+<text x="230" y="55" fill="black">2: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="70" r="3" id="node3" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="80" r="3" id="3link4" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="210" y2="80" id="3flink4" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="80" x2="220" y2="90" id="3blink4" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="90" r="3" id="3link5" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="200" y2="90" id="3flink5" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="90" x2="220" y2="110" id="3blink5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="100" r="3" id="3link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="190" y2="100" id="3flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="100" x2="220" y2="130" id="3blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="110" r="3" id="3link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="180" y2="110" id="3flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="110" x2="220" y2="150" id="3blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="120" r="3" id="3link8" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="170" y2="120" id="3flink8" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="120" x2="220" y2="170" id="3blink8" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="130" r="3" id="3link9" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="160" y2="130" id="3flink9" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="130" x2="220" y2="190" id="3blink9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="140" r="3" id="3link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="150" y2="140" id="3flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="140" x2="220" y2="210" id="3blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="150" r="3" id="3link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="140" y2="150" id="3flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="150" x2="220" y2="230" id="3blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="160" r="3" id="3link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="130" y2="160" id="3flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="160" x2="220" y2="250" id="3blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="170" r="3" id="3link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="120" y2="170" id="3flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="170" x2="220" y2="270" id="3blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="180" r="3" id="3link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="110" y2="180" id="3flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="180" x2="220" y2="290" id="3blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="190" r="3" id="3link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="100" y2="190" id="3flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="190" x2="220" y2="310" id="3blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="200" r="3" id="3link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="90" y2="200" id="3flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="200" x2="220" y2="330" id="3blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="210" r="3" id="3link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="80" y2="210" id="3flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="210" x2="220" y2="350" id="3blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="70" cy="220" r="3" id="3link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="70" x2="70" y2="220" id="3flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="70" y1="220" x2="220" y2="370" id="3blink18" />
+<text x="230" y="75" fill="black">3: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="90" r="3" id="node4" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="100" r="3" id="4link5" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="210" y2="100" id="4flink5" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="100" x2="220" y2="110" id="4blink5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="110" r="3" id="4link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="200" y2="110" id="4flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="110" x2="220" y2="130" id="4blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="120" r="3" id="4link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="190" y2="120" id="4flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="120" x2="220" y2="150" id="4blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="130" r="3" id="4link8" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="180" y2="130" id="4flink8" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="130" x2="220" y2="170" id="4blink8" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="140" r="3" id="4link9" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="170" y2="140" id="4flink9" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="140" x2="220" y2="190" id="4blink9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="150" r="3" id="4link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="160" y2="150" id="4flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="150" x2="220" y2="210" id="4blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="160" r="3" id="4link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="150" y2="160" id="4flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="160" x2="220" y2="230" id="4blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="170" r="3" id="4link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="140" y2="170" id="4flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="170" x2="220" y2="250" id="4blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="180" r="3" id="4link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="130" y2="180" id="4flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="180" x2="220" y2="270" id="4blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="190" r="3" id="4link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="120" y2="190" id="4flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="190" x2="220" y2="290" id="4blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="200" r="3" id="4link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="110" y2="200" id="4flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="200" x2="220" y2="310" id="4blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="210" r="3" id="4link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="100" y2="210" id="4flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="210" x2="220" y2="330" id="4blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="220" r="3" id="4link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="90" y2="220" id="4flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="220" x2="220" y2="350" id="4blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="230" r="3" id="4link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="90" x2="80" y2="230" id="4flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="230" x2="220" y2="370" id="4blink18" />
+<text x="230" y="95" fill="black">4: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="110" r="3" id="node5" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="120" r="3" id="5link6" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="210" y2="120" id="5flink6" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="120" x2="220" y2="130" id="5blink6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="130" r="3" id="5link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="200" y2="130" id="5flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="130" x2="220" y2="150" id="5blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="170" r="3" id="5link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="160" y2="170" id="5flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="170" x2="220" y2="230" id="5blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="180" r="3" id="5link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="150" y2="180" id="5flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="180" x2="220" y2="250" id="5blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="210" r="3" id="5link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="120" y2="210" id="5flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="210" x2="220" y2="310" id="5blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="220" r="3" id="5link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="110" y2="220" id="5flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="220" x2="220" y2="330" id="5blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="230" r="3" id="5link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="100" y2="230" id="5flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="230" x2="220" y2="350" id="5blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="250" r="3" id="5link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="80" y2="250" id="5flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="250" x2="220" y2="390" id="5blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="70" cy="260" r="3" id="5link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="110" x2="70" y2="260" id="5flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="70" y1="260" x2="220" y2="410" id="5blink20" />
+<text x="230" y="115" fill="black">5: Move</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="130" r="3" id="node6" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="140" r="3" id="6link7" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="210" y2="140" id="6flink7" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="140" x2="220" y2="150" id="6blink7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="180" r="3" id="6link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="170" y2="180" id="6flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="180" x2="220" y2="230" id="6blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="190" r="3" id="6link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="160" y2="190" id="6flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="190" x2="220" y2="250" id="6blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="220" r="3" id="6link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="130" y2="220" id="6flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="220" x2="220" y2="310" id="6blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="230" r="3" id="6link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="120" y2="230" id="6flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="230" x2="220" y2="330" id="6blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="110" cy="240" r="3" id="6link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="110" y2="240" id="6flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="110" y1="240" x2="220" y2="350" id="6blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="260" r="3" id="6link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="90" y2="260" id="6flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="260" x2="220" y2="390" id="6blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="80" cy="270" r="3" id="6link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="130" x2="80" y2="270" id="6flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="80" y1="270" x2="220" y2="410" id="6blink20" />
+<text x="230" y="135" fill="black">6: Move</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="150" r="3" id="node7" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="190" r="3" id="7link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="180" y2="190" id="7flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="190" x2="220" y2="230" id="7blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="200" r="3" id="7link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="170" y2="200" id="7flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="200" x2="220" y2="250" id="7blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="230" r="3" id="7link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="140" y2="230" id="7flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="230" x2="220" y2="310" id="7blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="240" r="3" id="7link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="130" y2="240" id="7flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="240" x2="220" y2="330" id="7blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="250" r="3" id="7link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="120" y2="250" id="7flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="250" x2="220" y2="350" id="7blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="100" cy="270" r="3" id="7link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="100" y2="270" id="7flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="100" y1="270" x2="220" y2="390" id="7blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="90" cy="280" r="3" id="7link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="150" x2="90" y2="280" id="7flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="90" y1="280" x2="220" y2="410" id="7blink20" />
+<text x="230" y="155" fill="black">7: Move</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="170" r="3" id="node8" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="180" r="3" id="8link9" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="210" y2="180" id="8flink9" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="180" x2="220" y2="190" id="8blink9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="190" r="3" id="8link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="200" y2="190" id="8flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="190" x2="220" y2="210" id="8blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="200" r="3" id="8link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="190" y2="200" id="8flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="200" x2="220" y2="230" id="8blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="210" r="3" id="8link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="180" y2="210" id="8flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="210" x2="220" y2="250" id="8blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="220" r="3" id="8link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="170" y2="220" id="8flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="220" x2="220" y2="270" id="8blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="230" r="3" id="8link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="160" y2="230" id="8flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="230" x2="220" y2="290" id="8blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="240" r="3" id="8link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="150" y2="240" id="8flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="240" x2="220" y2="310" id="8blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="250" r="3" id="8link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="140" y2="250" id="8flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="250" x2="220" y2="330" id="8blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="260" r="3" id="8link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="130" y2="260" id="8flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="260" x2="220" y2="350" id="8blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="120" cy="270" r="3" id="8link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="170" x2="120" y2="270" id="8flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="120" y1="270" x2="220" y2="370" id="8blink18" />
+<text x="230" y="175" fill="black">8: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="190" r="3" id="node9" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="200" r="3" id="9link10" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="210" y2="200" id="9flink10" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="200" x2="220" y2="210" id="9blink10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="210" r="3" id="9link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="200" y2="210" id="9flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="210" x2="220" y2="230" id="9blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="220" r="3" id="9link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="190" y2="220" id="9flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="220" x2="220" y2="250" id="9blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="230" r="3" id="9link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="180" y2="230" id="9flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="230" x2="220" y2="270" id="9blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="240" r="3" id="9link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="170" y2="240" id="9flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="240" x2="220" y2="290" id="9blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="250" r="3" id="9link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="160" y2="250" id="9flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="250" x2="220" y2="310" id="9blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="260" r="3" id="9link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="150" y2="260" id="9flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="260" x2="220" y2="330" id="9blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="270" r="3" id="9link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="140" y2="270" id="9flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="270" x2="220" y2="350" id="9blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="280" r="3" id="9link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="190" x2="130" y2="280" id="9flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="280" x2="220" y2="370" id="9blink18" />
+<text x="230" y="195" fill="black">9: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="210" r="3" id="node10" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="220" r="3" id="10link11" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="210" y2="220" id="10flink11" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="220" x2="220" y2="230" id="10blink11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="230" r="3" id="10link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="200" y2="230" id="10flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="230" x2="220" y2="250" id="10blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="240" r="3" id="10link13" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="190" y2="240" id="10flink13" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="240" x2="220" y2="270" id="10blink13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="250" r="3" id="10link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="180" y2="250" id="10flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="250" x2="220" y2="290" id="10blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="260" r="3" id="10link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="170" y2="260" id="10flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="260" x2="220" y2="310" id="10blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="270" r="3" id="10link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="160" y2="270" id="10flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="270" x2="220" y2="330" id="10blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="280" r="3" id="10link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="150" y2="280" id="10flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="280" x2="220" y2="350" id="10blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="290" r="3" id="10link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="210" x2="140" y2="290" id="10flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="290" x2="220" y2="370" id="10blink18" />
+<text x="230" y="215" fill="black">10: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="230" r="3" id="node11" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="240" r="3" id="11link12" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="210" y2="240" id="11flink12" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="240" x2="220" y2="250" id="11blink12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="270" r="3" id="11link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="180" y2="270" id="11flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="270" x2="220" y2="310" id="11blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="280" r="3" id="11link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="170" y2="280" id="11flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="280" x2="220" y2="330" id="11blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="160" cy="290" r="3" id="11link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="160" y2="290" id="11flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="160" y1="290" x2="220" y2="350" id="11blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="310" r="3" id="11link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="140" y2="310" id="11flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="310" x2="220" y2="390" id="11blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="130" cy="320" r="3" id="11link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="230" x2="130" y2="320" id="11flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="130" y1="320" x2="220" y2="410" id="11blink20" />
+<text x="230" y="235" fill="black">11: Transfer</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="250" r="3" id="node12" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="280" r="3" id="12link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="250" x2="190" y2="280" id="12flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="280" x2="220" y2="310" id="12blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="290" r="3" id="12link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="250" x2="180" y2="290" id="12flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="290" x2="220" y2="330" id="12blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="300" r="3" id="12link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="250" x2="170" y2="300" id="12flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="300" x2="220" y2="350" id="12blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="150" cy="320" r="3" id="12link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="250" x2="150" y2="320" id="12flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="150" y1="320" x2="220" y2="390" id="12blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="140" cy="330" r="3" id="12link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="250" x2="140" y2="330" id="12flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="140" y1="330" x2="220" y2="410" id="12blink20" />
+<text x="230" y="255" fill="black">12: Transfer</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="270" r="3" id="node13" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="280" r="3" id="13link14" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="270" x2="210" y2="280" id="13flink14" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="280" x2="220" y2="290" id="13blink14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="290" r="3" id="13link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="270" x2="200" y2="290" id="13flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="290" x2="220" y2="310" id="13blink15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="300" r="3" id="13link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="270" x2="190" y2="300" id="13flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="300" x2="220" y2="330" id="13blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="310" r="3" id="13link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="270" x2="180" y2="310" id="13flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="310" x2="220" y2="350" id="13blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="320" r="3" id="13link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="270" x2="170" y2="320" id="13flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="320" x2="220" y2="370" id="13blink18" />
+<text x="230" y="275" fill="black">13: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="290" r="3" id="node14" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="310" r="3" id="14link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="290" x2="200" y2="310" id="14flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="310" x2="220" y2="330" id="14blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="320" r="3" id="14link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="290" x2="190" y2="320" id="14flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="320" x2="220" y2="350" id="14blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="330" r="3" id="14link18" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="290" x2="180" y2="330" id="14flink18" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="330" x2="220" y2="370" id="14blink18" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="300" r="3" id="14link15" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="290" x2="210" y2="300" id="14flink15" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="300" x2="220" y2="310" id="14blink15" />
+<text x="230" y="295" fill="black">14: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="310" r="3" id="node15" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="320" r="3" id="15link16" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="310" x2="210" y2="320" id="15flink16" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="320" x2="220" y2="330" id="15blink16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="330" r="3" id="15link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="310" x2="200" y2="330" id="15flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="330" x2="220" y2="350" id="15blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="350" r="3" id="15link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="310" x2="180" y2="350" id="15flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="350" x2="220" y2="390" id="15blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="170" cy="360" r="3" id="15link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="310" x2="170" y2="360" id="15flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="170" y1="360" x2="220" y2="410" id="15blink20" />
+<text x="230" y="315" fill="black">15: Execute</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="330" r="3" id="node16" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="340" r="3" id="16link17" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="330" x2="210" y2="340" id="16flink17" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="340" x2="220" y2="350" id="16blink17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="360" r="3" id="16link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="330" x2="190" y2="360" id="16flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="360" x2="220" y2="390" id="16blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="180" cy="370" r="3" id="16link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="330" x2="180" y2="370" id="16flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="180" y1="370" x2="220" y2="410" id="16blink20" />
+<text x="230" y="335" fill="black">16: Execute</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="350" r="3" id="node17" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="200" cy="370" r="3" id="17link19" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="350" x2="200" y2="370" id="17flink19" />
+<line stroke="#000000" stroke-width="2"
+      x1="200" y1="370" x2="220" y2="390" id="17blink19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="190" cy="380" r="3" id="17link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="350" x2="190" y2="380" id="17flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="190" y1="380" x2="220" y2="410" id="17blink20" />
+<text x="230" y="355" fill="black">17: Execute</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="370" r="3" id="node18" />
+<text x="230" y="375" fill="black">18: Look</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="390" r="3" id="node19" />
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="210" cy="400" r="3" id="19link20" />
+<line stroke="#000000" stroke-width="2"
+      x1="220" y1="390" x2="210" y2="400" id="19flink20" />
+<line stroke="#000000" stroke-width="2"
+      x1="210" y1="400" x2="220" y2="410" id="19blink20" />
+<text x="230" y="395" fill="black">19: Cleanup</text>
+<circle stroke="#333EFF" stroke-width="3" fill="#333EFF"
+        cx="220" cy="410" r="3" id="node20" />
+<text x="230" y="415" fill="black">20: Cleanup</text>
+</svg>
