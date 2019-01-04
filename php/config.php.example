@@ -1,0 +1,11 @@
+<?php
+
+
+
+return array(
+
+    'conn' => "mongo_atlas_connection_string",
+
+);
+
+?>

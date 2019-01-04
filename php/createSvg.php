@@ -1,12 +1,4 @@
 <?php
-// Mongo Atlas uname: rjl9447 pword: studentMongo!9447
-// Docker id: rjl9447 pword: DockerStudentrjl9447 (not in use)
-
-// connection string
-// mongodb+srv://rjl9447:studentMongo!9447@cluster0-2pw84.mongodb.net/test?retryWrites=true
-
-// mongo shell
-// mongo "mongodb+srv://cluster0-2pw84.mongodb.net/test" --username rjl9447
 
 
 // something for the driver. don't really understand it but its neccessary. used 'composer' to retrieve the files
@@ -189,7 +181,9 @@ function handleData ($timestamp, $date, $year, $month, $day, $day_of_week, $hour
     //echo "php version: ". phpversion();
 
 
-    $connection = new MongoDB\Client("mongodb+srv://rjl9447:studentMongo!9447@cluster0-2pw84.mongodb.net/test?retryWrites=true");
+    $configs = include('config.php');
+
+    $connection = new MongoDB\Client($configs['conn']);
 
     //$connection = new MongoDB\Client();
 

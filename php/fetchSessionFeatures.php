@@ -6,7 +6,9 @@
 
 	try {
 
-		$connection = new MongoDB\Client("mongodb+srv://rjl9447:studentMongo!9447@cluster0-2pw84.mongodb.net/test?retryWrites=true");
+		$configs = include('config.php');
+
+		$connection = new MongoDB\Client($configs['conn']);
 
 		$db = $connection->linkodb;
 
