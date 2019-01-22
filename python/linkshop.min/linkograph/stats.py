@@ -2,7 +2,7 @@
 
 """Statistics package for linkographs."""
 import sys
-sys.path.append('C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\linkograph')
+sys.path.append('..')
 from collections import Counter
 from functools import reduce
 import linkoCreate

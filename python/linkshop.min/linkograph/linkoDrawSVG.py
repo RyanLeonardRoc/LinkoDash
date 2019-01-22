@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys
-sys.path.append('C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\linkograph')
+sys.path.append("..")
 import argparse  # For command line parsing.
 import json
 import re  # for replacing invalid html characters.

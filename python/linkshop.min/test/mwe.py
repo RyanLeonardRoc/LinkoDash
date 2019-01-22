@@ -1,8 +1,15 @@
 #!/usr/bin/env python3
 
+#TODO create config file for the following paths
+#path to linkography dir
+path_to_linkography = 'C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\linkograph'
+#path to test dir
+path_to_test = 'C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\test'
+
+import os
 import sys
-sys.path.append('C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\linkograph')
-sys.path.append('C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\test')
+sys.path.append(path_to_linkography)
+sys.path.append('..')
 import csv
 import datetime
 import json
@@ -10,9 +17,8 @@ import labels as llabels
 import linkoCreate as llinkoCreate
 import stats as lstats
 import linkoDrawSVG as llinkoDrawSVG
-import os
 
-os.chdir('C:\\xampp\\htdocs\\LinkoDashV6\\python\\linkshop.min\\test')
+os.chdir(path_to_test)
 
 
 def stringToDatetime(in_string):
